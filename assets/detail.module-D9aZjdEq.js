@@ -1,0 +1,1 @@
+var e={page:`_page_1osyy_2`,layout:`_layout_1osyy_7`,content:`_content_1osyy_17`,aside:`_aside_1osyy_32`,asideTitle:`_asideTitle_1osyy_43`,fishGrid:`_fishGrid_1osyy_54`,fishTile:`_fishTile_1osyy_62`,twoLists:`_twoLists_1osyy_81`,pros:`_pros_1osyy_92`,cons:`_cons_1osyy_95`,rigs:`_rigs_1osyy_98`,specList:`_specList_1osyy_103`};export{e as t};
